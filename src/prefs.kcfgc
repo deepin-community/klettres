@@ -1,0 +1,8 @@
+# Code generation options for kconfig_compiler
+File=klettres.kcfg
+IncludeFiles=qdebug.h
+ClassName=Prefs
+Singleton=true
+CustomAdditions=false
+Mutators=true
+

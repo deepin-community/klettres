@@ -1,0 +1,90 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: KLettres
+Upstream-Contact: kde-edu@mail.kde.org
+Source: https://invent.kde.org/education/klettres
+
+Files: *
+Copyright: 2001-2011, Anne-Marie Mahfouf <annma@kde.org>
+           2001, Eric Bischoff <e.bischoff@noos.fr>
+           2005, Mark Kretschmann <markey@web.de>
+           2005, Michael Goettsche <michael.goettsche@kdemail.net>
+           2007, Pino Toscano <pino@kde.org>
+License: GPL-2+
+
+Files: doc/*
+Copyright: 2001-2007, Anne-Marie Mahfouf <annma@kde.org>
+License: GFDL-NIV-1.2+
+
+Files: org.kde.klettres.appdata.xml
+Copyright: 2014, Andreas Cord-Landwehr <cordlandwehr@kde.org>
+License: CC0-1.0
+
+Files: tests/*
+Copyright: 2009, Anne-Marie Mahfouf <annma@kde.org>
+License: LGPL-2
+
+Files: debian/*
+Copyright: 2011, Harald Sitter <apachelogger@ubuntu.com>
+           2011-2012, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+License: GPL-2+
+
+License: CC0-1.0
+ To the extent possible under law, the author(s) have dedicated all copyright
+ and related and neighboring rights to this software to the public domain
+ worldwide. This software is distributed without any warranty.
+ .
+ You should have received a copy of the CC0 Public Domain Dedication along
+ with this software. If not, see
+ <https://creativecommons.org/publicdomain/zero/1.0/>.
+ --
+ On Debian systems, the complete text of the CC0 Public Domain Dedication
+ can be found in `/usr/share/common-licenses/CC0-1.0’.
+
+License: LGPL-2
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License version 2 as published by the Free Software Foundation;
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public
+ License
+ along with this library; see the file COPYING.LIB.  If not, write
+ to the Free Software Foundation, Inc., 51 Franklin Street, Fifth
+ Floor, Boston, MA 02110-1301, USA.
+ --
+ On Debian systems, the full text of the GNU Lesser General Public License
+ version 2 can be found in the file `/usr/share/common-licenses/LGPL-2’.
+
+License: GPL-2+
+ This program is free software; you can redistribute it
+ and/or modify it under the terms of the GNU General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later
+ version.
+ .
+ This program is distributed in the hope that it will be
+ useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the GNU General Public License for more
+ details.
+ .
+ You should have received a copy of the GNU General Public
+ License along with this package; if not, write to the Free
+ Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+ Boston, MA  02110-1301 USA
+ --
+ On Debian systems, the full text of the GNU General Public License
+ version 2 can be found in the file `/usr/share/common-licenses/GPL-2’.
+
+License: GFDL-NIV-1.2+
+ Permission is granted to copy, distribute and/or modify this document under
+ the terms of the GNU Free Documentation License, Version 1.2 or any later
+ version published by the Free Software Foundation; with no Invariant
+ Sections, no Front-Cover Texts, and no Back-Cover Texts.
+ --
+ On Debian systems, the complete text of the GNU Free Documentation License
+ version 1.2 can be found in `/usr/share/common-licenses/GFDL-1.2’.

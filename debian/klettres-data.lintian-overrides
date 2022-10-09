@@ -1,0 +1,2 @@
+# The files installed in usr/share/klettres/${LANG}.txt are really data files in plaintext format, not documentation
+klettres-data: package-contains-documentation-outside-usr-share-doc
